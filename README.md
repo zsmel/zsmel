@@ -24,7 +24,7 @@ Driven by a constant search for new knowledge and challenges, I've found in tech
 
 ## 🌷GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsmel&theme=transparent&bg_color=000&border_color=F70A8D&show_icons=true&icon_color=86D72F&title_color=86D72F&text_color=FF6DC6&hide=prs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsmel&theme=transparent&bg_color=000&border_color=F70A8D&show_icons=true&icon_color=86D72F&title_color=86D72F&text_color=FF6DC6&hide=issues)
 
 
 [![](https://visitcount.itsvg.in/api?id=zsmel&label=Profile%20Views&color=12&icon=9&pretty=false)](https://visitcount.itsvg.in)
