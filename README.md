@@ -1,10 +1,11 @@
-# Melissa Muniz Bandeira
+## 🌷About Me
 
-Hello everyone! My name is Melissa, and I'm a 21 year old Computer Science student at UNIP.
+• Computer Science student at Universidade Paulista - UNIP
 
-I've always been passionate about learning new things, and some of my hobbies are skateboarding, painting and reading.
+• Currently studying _**frontend development**_
 
-I'm currently studying _**frontend development**_.
+I'm driven by a constant search for new knowledge and challenges, and I've found in technology a way not only to develop, learn, and grow professionally, but also to create positive impacts in the world and contribute to an increasingly sustainable and inclusive society.
+
 
 ## 🌷Habilities
 
