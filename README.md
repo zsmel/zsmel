@@ -1,10 +1,10 @@
 ## 🌷About Me
 
+Driven by a constant search for new knowledge and challenges, I've found in technology a way not only to develop, learn, and grow professionally, but also to create positive impacts in the world and contribute to an increasingly sustainable and inclusive society.
+
 • Computer Science student at Universidade Paulista - UNIP
 
 • Currently studying _**frontend development**_
-
-I'm driven by a constant search for new knowledge and challenges, and I've found in technology a way not only to develop, learn, and grow professionally, but also to create positive impacts in the world and contribute to an increasingly sustainable and inclusive society.
 
 
 ## 🌷Habilities
