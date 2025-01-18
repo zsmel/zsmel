@@ -4,16 +4,15 @@ Hello everyone! My name is Melissa, and I'm a 21 year old Computer Science stude
 
 I've always been passionate about learning new things, and some of my hobbies are skateboarding, painting and reading.
 
-I'm currently studying _**frontend development**_ and _**data analysis**_.
+I'm currently studying _**frontend development**_.
 
 ## 🌷Habilities
 
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=FB3CAA)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=FB3CAA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FB3CAA)
-![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FB3CAA)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FB3CAA)
-![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=FB3CAA)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
 
 ## 🌷Connect with me
 
