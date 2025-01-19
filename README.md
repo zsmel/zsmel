@@ -23,9 +23,7 @@ Driven by a constant search for new knowledge and challenges, I've found in tech
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FB3CAA)](mailto:melissamuniz4447@gmail.com)
 
 <details><summary></summary>
-
 - Badges by <a href="https://shields.io/">shields.io</a><br>
-- GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
 <div align="right">Made by <a href="https://github.com/zsmel">Mel</a>🌷</div>
 
 </details>
