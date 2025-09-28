@@ -10,10 +10,14 @@ Driven by a constant search for new knowledge and challenges, I've found in tech
 ## 🌷Habilities
 
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=FB3CAA)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FB3CAA)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FB3CAA)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FB3CAA)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
+![Keras](https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
+![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
+![Anaconda](https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
+![OpenCV](https://img.shields.io/badge/opencv-000?style=for-the-badge&logo=git&logoColor=FB3CAA)
 
 ## 🌷Connect with me
 
