@@ -4,7 +4,7 @@ Driven by a constant search for new knowledge and challenges, I've found in tech
 
 • Computer Science student at Universidade Paulista - UNIP
 
-• Currently studying _**frontend development**_
+• Currently studying _**machine learning**_
 
 
 ## 🌷Habilities
